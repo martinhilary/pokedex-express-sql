@@ -8,9 +8,23 @@
     "express": "^4.16.3",
     "express-handlebars": "^3.0.0",
     "express-react-views": "^0.10.5",
+    "jsonfile": "^4.0.0",
     "method-override": "^2.3.10",
     "pg": "^7.4.1",
     "react": "^16.4.1",
     "react-dom": "^16.4.1"
-  }
+  },
+  "description": "For this exercise, we'll upgrade from storing pokedex data in a plain JSON file to a fully fledged Postgres database. The end result we want is a CRUD app for pokemon with data saved into a database.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinhilary/pokedex-express-sql.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/martinhilary/pokedex-express-sql/issues"
+  },
+  "homepage": "https://github.com/martinhilary/pokedex-express-sql#readme"
 }

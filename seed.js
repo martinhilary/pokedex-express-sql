@@ -5,7 +5,7 @@ const FILE = 'pokedex.json';
 // REMEMBER TO CHANGE YOUR CONFIGS BEFORE RUNNING THIS SCRIPT!!
 const pg = require('pg');
 const configs = {
-	user: 'scottlee',
+	user: 'martinhilary',
 	host: '127.0.0.1',
 	database: 'pokemons',
 	port: '5432'
